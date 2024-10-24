@@ -13,17 +13,17 @@ const modules = [Pagination, Autoplay]
 const slides = [
   {
     slug: 'mobile-accessories',
-    imgSrc: '/images/mobile-accessories.jpg',
+    imgSrc: 'images/mobile-accessories.jpg',
     title: 'Mobile Must-Haves',
   },
   {
     slug: 'sunglasses',
-    imgSrc: '/images/sunglasses.jpg',
+    imgSrc: 'images/sunglasses.jpg',
     title: 'Stylish Sunglasses',
   },
   {
     slug: 'fragrances',
-    imgSrc: '/images/fragrances.jpg',
+    imgSrc: 'images/fragrances.jpg',
     title: 'Essence of Fragrance',
   },
 ]
