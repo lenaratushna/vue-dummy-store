@@ -13,17 +13,17 @@ const modules = [Pagination, Autoplay]
 const slides = [
   {
     slug: 'mobile-accessories',
-    imgSrc: '/src/assets/images/mobile-accessories.jpg',
+    imgSrc: '/vue-dummy-store/assets/images/mobile-accessories.jpg',
     title: 'Mobile Must-Haves',
   },
   {
     slug: 'sunglasses',
-    imgSrc: '/src/assets/images/sunglasses.jpg',
+    imgSrc: '/vue-dummy-store/assets/images/sunglasses.jpg',
     title: 'Stylish Sunglasses',
   },
   {
     slug: 'fragrances',
-    imgSrc: '/src/assets/images/fragrances.jpg',
+    imgSrc: '/vue-dummy-store/assets/images/fragrances.jpg',
     title: 'Essence of Fragrance',
   },
 ]

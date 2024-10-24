@@ -41,7 +41,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/vue-dummy-store/'),
   routes,
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
